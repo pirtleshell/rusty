@@ -1,0 +1,6 @@
+# rust stuff
+target
+**/*.rs.bk
+
+# mac garbage
+.DS_Store
